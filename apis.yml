@@ -1,0 +1,32 @@
+aid: istanbul-i-bb-open-data
+name: Istanbul (İBB) Open Data
+description: "Data sets from the İstanbul Metropolitan Municipality (İBB)"
+url: https://data.ibb.gov.tr
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Government"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Government
+  - Public APIs
+apis:
+  - name: Istanbul (İBB) Open Data
+    description: "Data sets from the İstanbul Metropolitan Municipality (İBB)"
+    humanURL: https://data.ibb.gov.tr
+    baseURL: https://data.ibb.gov.tr
+    tags:
+      - Government
+    properties:
+      - type: Documentation
+        url: https://data.ibb.gov.tr
+common:
+  - type: Website
+    url: https://data.ibb.gov.tr
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
