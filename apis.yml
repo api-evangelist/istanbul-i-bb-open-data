@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://data.ibb.gov.tr
 common:
+  - type: DomainSecurity
+    url: security/istanbul-i-bb-open-data-domain-security.yml
   - type: Website
     url: https://data.ibb.gov.tr
   - type: PublicAPIsListing
