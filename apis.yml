@@ -1,4 +1,16 @@
 aid: istanbul-i-bb-open-data
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/istanbul-i-bb-open-data.png
 name: Istanbul (İBB) Open Data
 description: "Data sets from the İstanbul Metropolitan Municipality (İBB)"
 url: https://data.ibb.gov.tr
